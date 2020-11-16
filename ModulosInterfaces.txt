@@ -1,0 +1,10 @@
+Toga
+
+PyQT
+
+PyGTK
+
+Tkinter => Tcl/Tk
+
+
+Widgets = Etiquetas, botones, entradas de texto
